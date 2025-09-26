@@ -1,6 +1,6 @@
 public class DemoKasir {
     public static void main(String[] args) {
-        Produk p1 = new Produk("P001", "Nasi Goreng", 12000);
+        Produk p1 = new Produk("P001", "Ayam Rendang", 15000);
         Produk p2 = new Produk("P002", "Es Teh", 4000);
         Produk p3 = new Produk("P003", "Mie Ayam", 10000);
 
